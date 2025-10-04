@@ -3,7 +3,6 @@
 This repository contains two main tools for Data Structures & Algorithms (DSA) practice:
 
 - **script.py**: Automatically scaffolds DSA problems using Gemini AI, generating solution boilerplate, test cases, and updating an Excel progress report.
-- **run_tests.py**: Runs the generated test cases against your solution and reports results in the terminal.
 
 ---
 
