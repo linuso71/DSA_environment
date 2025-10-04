@@ -14,13 +14,6 @@ This repository contains two main tools for Data Structures & Algorithms (DSA) p
 - **AI-powered scaffolding**: Generates Python solution templates and JSON test cases for any DSA problem description or URL.
 - **Automatic categorization**: Organizes problems by category (array, string, tree, etc.).
 - **Excel progress tracking**: Updates `dsa_progress_report.xlsx` with problem details, including title and description extracted from URLs.
-
-### run_tests.py
-
-- **Dynamic test runner**: Imports your solution and runs all test cases, showing pass/fail status and timing.
-- **Supports both positional and keyword arguments** in test cases.
-- **Color-coded output** for easy result interpretation.
-
 ---
 
 ## Setup
