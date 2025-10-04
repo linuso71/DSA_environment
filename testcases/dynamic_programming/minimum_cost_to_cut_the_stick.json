@@ -1,0 +1,76 @@
+[
+    {
+        "input": {
+            "stick_length": 7,
+            "cut_positions": [
+                1,
+                5,
+                2
+            ]
+        },
+        "expected_output": 14
+    },
+    {
+        "input": {
+            "stick_length": 9,
+            "cut_positions": [
+                5,
+                6,
+                1,
+                4,
+                2
+            ]
+        },
+        "expected_output": 22
+    },
+    {
+        "input": {
+            "stick_length": 10,
+            "cut_positions": [
+                4,
+                6
+            ]
+        },
+        "expected_output": 16
+    },
+    {
+        "input": {
+            "stick_length": 1,
+            "cut_positions": []
+        },
+        "expected_output": 0
+    },
+    {
+        "input": {
+            "stick_length": 100,
+            "cut_positions": [
+                50
+            ]
+        },
+        "expected_output": 100
+    },
+    {
+        "input": {
+            "stick_length": 20,
+            "cut_positions": [
+                3,
+                8,
+                15,
+                18
+            ]
+        },
+        "expected_output": 35
+    },
+    {
+        "input": {
+            "stick_length": 30,
+            "cut_positions": [
+                10,
+                20,
+                5,
+                25
+            ]
+        },
+        "expected_output": 60
+    }
+]

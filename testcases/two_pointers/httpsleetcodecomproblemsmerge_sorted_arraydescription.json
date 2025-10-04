@@ -1,0 +1,146 @@
+[
+    {
+        "input": {
+            "nums1_list": [
+                1,
+                2,
+                3,
+                0,
+                0,
+                0
+            ],
+            "m_count": 3,
+            "nums2_list": [
+                2,
+                5,
+                6
+            ],
+            "n_count": 3
+        },
+        "expected_output": [
+            1,
+            2,
+            2,
+            3,
+            5,
+            6
+        ]
+    },
+    {
+        "input": {
+            "nums1_list": [
+                0,
+                0,
+                0
+            ],
+            "m_count": 0,
+            "nums2_list": [
+                1,
+                2,
+                3
+            ],
+            "n_count": 3
+        },
+        "expected_output": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "input": {
+            "nums1_list": [
+                1
+            ],
+            "m_count": 1,
+            "nums2_list": [],
+            "n_count": 0
+        },
+        "expected_output": [
+            1
+        ]
+    },
+    {
+        "input": {
+            "nums1_list": [
+                2,
+                0
+            ],
+            "m_count": 1,
+            "nums2_list": [
+                1
+            ],
+            "n_count": 1
+        },
+        "expected_output": [
+            1,
+            2
+        ]
+    },
+    {
+        "input": {
+            "nums1_list": [
+                4,
+                5,
+                6,
+                0,
+                0,
+                0
+            ],
+            "m_count": 3,
+            "nums2_list": [
+                1,
+                2,
+                3
+            ],
+            "n_count": 3
+        },
+        "expected_output": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "input": {
+            "nums1_list": [
+                -1,
+                0,
+                0,
+                3,
+                3,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "m_count": 6,
+            "nums2_list": [
+                1,
+                2,
+                2,
+                2,
+                5
+            ],
+            "n_count": 5
+        },
+        "expected_output": [
+            -1,
+            0,
+            0,
+            1,
+            2,
+            2,
+            2,
+            3,
+            3,
+            3,
+            5
+        ]
+    }
+]

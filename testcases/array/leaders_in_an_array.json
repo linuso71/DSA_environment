@@ -1,0 +1,110 @@
+[
+    {
+        "input": {
+            "nums": [
+                1,
+                2,
+                5,
+                3,
+                1,
+                2
+            ]
+        },
+        "expected_output": [
+            5,
+            3,
+            2
+        ]
+    },
+    {
+        "input": {
+            "nums": [
+                5,
+                4,
+                3,
+                2,
+                1
+            ]
+        },
+        "expected_output": [
+            5,
+            4,
+            3,
+            2,
+            1
+        ]
+    },
+    {
+        "input": {
+            "nums": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        "expected_output": [
+            5
+        ]
+    },
+    {
+        "input": {
+            "nums": [
+                7,
+                4,
+                5,
+                7,
+                3
+            ]
+        },
+        "expected_output": [
+            7,
+            3
+        ]
+    },
+    {
+        "input": {
+            "nums": [
+                10
+            ]
+        },
+        "expected_output": [
+            10
+        ]
+    },
+    {
+        "input": {
+            "nums": [
+                16,
+                17,
+                4,
+                3,
+                5,
+                2
+            ]
+        },
+        "expected_output": [
+            17,
+            5,
+            2
+        ]
+    },
+    {
+        "input": {
+            "nums": [
+                10,
+                -5,
+                8,
+                2,
+                -1
+            ]
+        },
+        "expected_output": [
+            10,
+            8,
+            2,
+            -1
+        ]
+    }
+]

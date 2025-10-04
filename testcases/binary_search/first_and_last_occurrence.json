@@ -1,0 +1,109 @@
+[
+    {
+        "input": {
+            "sorted_numbers": [
+                5,
+                7,
+                7,
+                8,
+                8,
+                10
+            ],
+            "target_value": 8
+        },
+        "expected_output": [
+            3,
+            4
+        ]
+    },
+    {
+        "input": {
+            "sorted_numbers": [
+                5,
+                7,
+                7,
+                8,
+                8,
+                10
+            ],
+            "target_value": 6
+        },
+        "expected_output": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "input": {
+            "sorted_numbers": [
+                1,
+                3,
+                3,
+                3,
+                3,
+                5
+            ],
+            "target_value": 3
+        },
+        "expected_output": [
+            1,
+            4
+        ]
+    },
+    {
+        "input": {
+            "sorted_numbers": [
+                1,
+                2,
+                3,
+                3,
+                3,
+                4
+            ],
+            "target_value": 1
+        },
+        "expected_output": [
+            0,
+            0
+        ]
+    },
+    {
+        "input": {
+            "sorted_numbers": [
+                1,
+                2,
+                3,
+                3,
+                3,
+                4
+            ],
+            "target_value": 4
+        },
+        "expected_output": [
+            5,
+            5
+        ]
+    },
+    {
+        "input": {
+            "sorted_numbers": [],
+            "target_value": 0
+        },
+        "expected_output": [
+            -1,
+            -1
+        ]
+    },
+    {
+        "input": {
+            "sorted_numbers": [
+                7
+            ],
+            "target_value": 7
+        },
+        "expected_output": [
+            0,
+            0
+        ]
+    }
+]
